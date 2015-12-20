@@ -1,0 +1,4 @@
+[submodule "bridge-utils"]
+	path = bridge-utils
+	url = git://git.kernel.org/pub/scm/linux/kernel/git/shemminger/bridge-utils.git
+	branch = master
